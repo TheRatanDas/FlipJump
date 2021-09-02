@@ -10,7 +10,7 @@ body {
 
 @font-face {
     font-family: 'mainfont';
-    src: url('media/graphics/font/big_noodle_titling.woff') format('woff'), url('media/graphics/font/big_noodle_titling.ttf');
+    src: url('https://cdn.jsdelivr.net/gh/TheRatanDas/FlipJump@main/media/graphics/font/big_noodle_titling.woff') format('woff'), url('https://cdn.jsdelivr.net/gh/TheRatanDas/FlipJump@main/media/graphics/font/big_noodle_titling.ttf');
 }
 
 #webgl {
@@ -32,7 +32,7 @@ body {
 }
 
 #ajaxbar {
-    background: url('media/graphics/loading/ajax-loader.gif') center no-repeat;
+    background: url('https://cdn.jsdelivr.net/gh/TheRatanDas/FlipJump@main/media/graphics/loading/ajax-loader.gif') center no-repeat;
 }
 
 #canvas {
@@ -201,7 +201,7 @@ body {
 #MobileAdInGamePreroll3-Box-Close {
     position: absolute;
     z-index: 10005;
-    background-image: url('media/graphics/generic-ad/light/close-button.png');
+    background-image: url('https://cdn.jsdelivr.net/gh/TheRatanDas/FlipJump@main/media/graphics/generic-ad/light/close-button.png');
     background-repeat: no-repeat;
     width: 22px;
     height: 22px;
@@ -288,7 +288,7 @@ body {
 #MobileAdInGameEnd3-Box-Close {
     position: absolute;
     z-index: 10005;
-    background-image: url('media/graphics/generic-ad/light/close-button.png');
+    background-image: url('https://cdn.jsdelivr.net/gh/TheRatanDas/FlipJump@main/media/graphics/generic-ad/light/close-button.png');
     background-repeat: no-repeat;
     width: 22px;
     height: 22px;
